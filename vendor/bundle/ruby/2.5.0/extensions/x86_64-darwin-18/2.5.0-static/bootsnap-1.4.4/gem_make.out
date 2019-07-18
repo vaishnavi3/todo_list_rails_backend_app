@@ -1,0 +1,15 @@
+current directory: /Users/vaishnavi/my_projects/rn_bckend_todos/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/vaishnavi/.rubies/ruby-2.5.1/bin/ruby -r ./siteconf20190715-84573-1la43wy.rb extconf.rb
+creating Makefile
+
+current directory: /Users/vaishnavi/my_projects/rn_bckend_todos/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/vaishnavi/my_projects/rn_bckend_todos/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/vaishnavi/my_projects/rn_bckend_todos/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190715-84573-1ghdyqs/bootsnap
